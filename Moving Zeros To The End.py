@@ -9,7 +9,7 @@ def move_zeros(lst):
     a = lists + list_zero
     print(a)
 
-    return lst
+    return a
 
 
 move_zeros([1, 2, 0, 1, 0, 1, 0, 3, 0, 1])
